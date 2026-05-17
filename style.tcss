@@ -1,0 +1,49 @@
+Screen {
+    background: black;
+}
+
+Button {
+    width: 1fr;
+    height: auto;
+    color: green;
+    background: black;
+    border: solid green;
+}
+
+#first_row {
+    width: auto;
+    height: auto;
+}
+#second_row {
+    width: auto;
+    height: auto;
+}
+#third_row {
+    width: auto;
+    height: auto;
+}
+#fourth_row {
+    width: auto;
+    height: auto;
+}
+
+#info {
+    height: 10;
+    color: green;
+    border: solid green;
+    overflow: auto;
+    padding:1;
+}
+#task {
+    height: 15;
+    color: green;
+    border: solid green;
+    overflow: auto;
+    padding:1;
+}
+#input {
+    background: black;
+    border: solid green;
+    color: green;
+    margin-bottom: 1;
+}
